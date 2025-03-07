@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f08faa5-17d9-49b5-bfbe-a1dc121ee756"
+      }
+    },
+    "owner": "petrosbarreto"
   }
 }
