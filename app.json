@@ -13,9 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "bundleIdentifier": "com.petrosbarreto.CadastroProdutosApp",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.petrosbarreto.CadastroProdutosApp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
